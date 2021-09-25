@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans! 
+
+Harry is here, I like sitting on a floating asteroid and observing the universe.
